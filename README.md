@@ -1,2 +1,2 @@
-#quick landing page website
+quick landing page website
 https://asifamir.github.io/quick/
